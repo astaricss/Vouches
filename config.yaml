@@ -1,6 +1,6 @@
-VouchOwner: [YOUR_USER_ID]
+VouchOwner: '1228243185579589754'
 
-ChannelId: 'YOUR_VOUCH_CHANNEL'
+ChannelId: '1228269677462163509'
 
 # time it takes to send vouches
 TimeLimit: {
